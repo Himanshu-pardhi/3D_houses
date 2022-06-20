@@ -22,17 +22,26 @@ Optimize your solution to have the result as fast as possible.
 Features like the living area of the house in m², how many floors, if there is a pool, the vegetation in the neighborhood, etc...
 Better visualization.
 
+
 Miscellaneous information
 What is LIDAR ?
 LIDAR is a method to measure distance using light. The device will illuminate a target with a laser light and a sensor will measure the reflection. Differences in wavelength and return times will be used to get 3D representations of an area.
 
+
 Installation of libraries
+
 Requests : To access a resource on the server
+
 Json : To store and read data
+
 Shapely : To draw geometric objects
+
 Matplotlib : To  create visualization
+
 Plotly :To plot the building in 3D
+
 Rasterio :To read geospatial raster data
+
 
 3D model for "Bolivarplaats 20, 2000 Antwerpen"
 https://github.com/Himanshu-pardhi/3D_houses/blob/main/3D_plot_images/Bolivarplaats_2000Antwerpen.png?raw=true
