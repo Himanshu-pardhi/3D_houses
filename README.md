@@ -34,10 +34,6 @@ Matplotlib : To  create visualization
 Plotly :To plot the building in 3D
 Rasterio :To read geospatial raster data
 
-
-
-Usage
-(Visuals)
-(Contributors)
-(Personal situation)
+3D model for "Bolivarplaats 20, 2000 Antwerpen"
+https://github.com/Himanshu-pardhi/3D_houses/blob/main/3D_plot_images/Bolivarplaats_2000Antwerpen.png?raw=true
 
